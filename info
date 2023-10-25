@@ -1,1 +1,20 @@
-Round Robin algorithm implementation using python.
+# Round Robin CPU scheduling algorithm using python
+
+A Python implementation of the Round Robin scheduling algorithm for CPU scheduling. This code allows you to simulate and visualize the execution of processes with a fixed time slice.
+
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+
+## Features
+
+- Round Robin CPU scheduling simulation.
+- User-friendly input for process data.
+- Visualization of the Gantt chart.
+- Calculation of average turnaround time and average wait time.
+
+## Prerequisites
+
+- Python 3.x
+- No external libraries or dependencies are required.
